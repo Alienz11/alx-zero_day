@@ -1,0 +1,1 @@
+**ALX is a fun school**
